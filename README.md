@@ -1,6 +1,3 @@
-# YAZ16303_Yazilim_Mimarisi_ve_Tasarimi
- 
- 
 # Yazılım Mimarisi ve Tasarımı (Software Architecure and Design) Dersi
 ![Yazılım Mimarisi ve Tasarımı](yazilim_mimarisi.jpg)
 
