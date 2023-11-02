@@ -1,0 +1,3 @@
+interface NotRaporlayici {
+    void notRaporuOlustur();
+}
